@@ -1,4 +1,4 @@
 # config-files-master
 
 Objetivo 
-Centralización de configuraciones con Spring Cloud Config para el arquetipo de spring cloud
+Centralización de configuraciones con Spring Cloud Config para el ecosistema de spring cloud

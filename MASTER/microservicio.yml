@@ -4,6 +4,6 @@ nombre: Aaron
 apellidop: Delgado
 apellidom: Gonzalez
 eureka:
- cliente: 
+ client: 
   serviceUrl:
    defaultZone: http://localhost:9000/eureka/
